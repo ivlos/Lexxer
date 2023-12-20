@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1701794892 source:c:\users\samsung\documents\cpp\hw\main.cpp
+	<iostream>
+	<vector>
+	"lexer.h"
+
+1701789603 source:c:\users\samsung\documents\cpp\hw\lexer.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1701789729 c:\users\samsung\documents\cpp\hw\lexer.h
+
+1701794637 source:c:\users\samsung\documents\cpp\hw\src\lexer.cpp
+	"Lexer.h"
+	"fsm.h"
+	<iostream>
+	<vector>
+	<string>
+
+1701794013 c:\users\samsung\documents\cpp\hw\include\lexer.h
+	<iostream>
+	<vector>
+	<string>
+
+1701794743 c:\users\samsung\documents\cpp\hw\include\fsm.h
+	<iostream>
+	<vector>
+	<string>
+
+1701794857 source:c:\users\samsung\documents\cpp\hw\src\fsm.cpp
+	"fsm.h"
+	<iostream>
+	<vector>
+	<string>
+
